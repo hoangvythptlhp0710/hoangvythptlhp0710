@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me :
 - I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hanoi.
-- 
+
 - :telescope: I’m learning to become a Software Engineer to contibute with Frontend Developer to build web application.
 
 - :seedling: Exploring Technical Content Writing.
