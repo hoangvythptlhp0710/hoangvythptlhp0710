@@ -8,7 +8,8 @@
 
 ### :woman_technologist: About Me :
 - I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hanoi.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 
+- :telescope: I’m learning to become a Software Engineer to contibute with Frontend Developer to build web application.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -44,7 +45,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvythptlhp0710)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### Social Network:
+### 🖥️: Connect to me
 
 <div id="badges" align="center" style="padding: 20px">
   <a href="https://www.linkedin.com/in/nguyen-hoang-vy-681a32212/">
