@@ -40,7 +40,7 @@
 
 
 
-<div id="badges" align="center" style="height=40px">
+<div id="badges" align="center" style="padding: 20px">
   <a href="https://www.linkedin.com/in/nguyen-hoang-vy-681a32212/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
