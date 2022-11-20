@@ -36,3 +36,9 @@
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+--- 
+
+### ▶️: My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hoangvythptlhp0710&theme=dark&background=000000)](https://git.io/streak-stats)
