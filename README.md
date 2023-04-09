@@ -13,7 +13,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode, learn Javascript and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode, learn SpringBoot and read tech articles.
 
 
 ### :hammer_and_wrench: Languages and Tools :
