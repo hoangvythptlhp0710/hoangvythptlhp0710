@@ -7,13 +7,13 @@
 ---
 
 ### :woman_technologist: About Me :
-- I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hanoi.
+- I am a DevOps Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Hanoi.
 
 - :telescope: I’m learning to become a Software Engineer to contibute with Frontend Developer to build web application.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode, learn SpringBoot and read tech articles.
+- :zap: In my free time, I read books, learn SpringBoot and listen to music.
 
 
 ### :hammer_and_wrench: Languages and Tools :
