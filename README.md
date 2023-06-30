@@ -49,7 +49,7 @@
 --- 
 
 ### ▶️: My Stats:
-[My Stats](https://github-readme-stats.vercel.app/api?username=hoangvythptlhp0710&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=hoangvythptlhp0710&show_icons=true&theme=radical)
 
 ---
 ### 🖥️: Connect to me
